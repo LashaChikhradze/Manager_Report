@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZnesHuIXEsqHoF35yFa932O0LXCWkWsfXt0YswATYMDhJ8KPPLNYFLf1mwF3JIXZk7o0GQ1IfF/vfr0HNaDXUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fujitsu\\Desktop\\lasha\\IT\\Projects\\C#\\2020 Second Semester\\manager_reporter\\manager_reporter\\Reporter.Services\\Reporter.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fujitsu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

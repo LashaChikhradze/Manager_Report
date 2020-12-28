@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "manager_reporter/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Reporter.Models": "1.0.0",
+          "Reporter.Services": "1.0.0"
+        },
+        "runtime": {
+          "manager_reporter.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Reporter.Models/1.0.0": {
+        "runtime": {
+          "Reporter.Models.dll": {}
+        }
+      },
+      "Reporter.Services/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "Reporter.Models": "1.0.0"
+        },
+        "runtime": {
+          "Reporter.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "manager_reporter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Reporter.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reporter.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Models.dll
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Services.dll
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.AssemblyInfo.cs
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.exe
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.deps.json
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.runtimeconfig.json
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.runtimeconfig.dev.json
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.dll
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.pdb
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Models.pdb
+C:\Users\User\Desktop\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Services.pdb
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.csproj.CopyComplete
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.dll
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.pdb
+C:\Users\User\Desktop\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.genruntimeconfig.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.exe
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.deps.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.runtimeconfig.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.runtimeconfig.dev.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\manager_reporter.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Models.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Services.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Models.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\bin\Debug\netcoreapp3.1\Reporter.Services.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.csprojAssemblyReference.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.AssemblyInfoInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.AssemblyInfo.cs
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.csproj.CoreCompileInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.csproj.CopyComplete
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\manager_reporter\obj\Debug\netcoreapp3.1\manager_reporter.genruntimeconfig.cache

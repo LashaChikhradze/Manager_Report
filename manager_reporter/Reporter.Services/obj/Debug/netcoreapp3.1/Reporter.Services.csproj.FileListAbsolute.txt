@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Models.dll
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.csprojAssemblyReference.cache
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Services.deps.json
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Services.dll
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Services.pdb
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Models.pdb
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.csproj.CopyComplete
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.dll
+C:\Users\User\Desktop\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Services.deps.json
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Services.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Services.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Models.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\bin\Debug\netcoreapp3.1\Reporter.Models.pdb
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.csprojAssemblyReference.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.AssemblyInfoInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.AssemblyInfo.cs
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.csproj.CoreCompileInputs.cache
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.csproj.CopyComplete
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.dll
+C:\Users\fujitsu\Desktop\lasha\IT\Projects\C#\2020 Second Semester\manager_reporter\manager_reporter\Reporter.Services\obj\Debug\netcoreapp3.1\Reporter.Services.pdb
